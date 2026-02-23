@@ -19,7 +19,6 @@ and compare their performance to identify the best approach.
     ├── README.md
     ├── regression.py
     └── results/
-        ├── correlation_matrix.png
         ├── r2_comparison.png
         ├── rmse_comparison.png
         ├── actual_vs_predicted.png
@@ -116,4 +115,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-*Codveda Technologies Internship — Data Analytics | 2025*
+
+*Codveda Technologies Internship — Data Analytics | 2026*
